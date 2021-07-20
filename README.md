@@ -6,14 +6,13 @@
 ## 🐱‍👤 About Shinobi 忍
 
 <img align="right" width="50%" height="50%" src="https://user-images.githubusercontent.com/40971045/126373212-f429f9f6-85da-40d3-bf95-8bb39ba829d2.jpg" />
+<br />
 Here is why I am most suitable for your project. <br />
  💎 am a Full Stack Blockchain developer.  <br />
  👍 am a reliable developer who have ability to satisfy the client. <br />
  🕝 am flexible with work timezone. <br />
  🏆 am a problem solving ninja. <br />
  📌 create modular, reusable components. <br />
-<br />
-<br />
 <br />
 <br />
 Highlight Skills  <br />
