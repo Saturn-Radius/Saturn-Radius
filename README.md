@@ -16,8 +16,8 @@ Here is why I am most suitable for your project. <br />
 <br />
 <br />
 Highlight Skills  <br />
- 💦 Ethereum, BSC, Matic, Solana, Kyber...... <br />
- 💦 ERC20, ERC721, ERC777, ERC1155, BEP20.... <br />
- 💦 Solidity,  Rust, Web3.js, Ethereum.js..... <br />
+ 💦 Terra, Solana, Ethereum, BSC, Matic...... <br />
+ 💦 CW20, CW721, ERC20, ERC721, ERC777, ERC1155, BEP20.... <br />
+ 💦 Rust(CosmWasm, Substrate), Solidity, Web3.js, Terra.js, Solana.js, Ethereum.js..... <br />
  💦 React, Angular, Vue for frontend    <br />
  💦 Node/Express, Python/Django for backend  <br />
