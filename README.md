@@ -5,7 +5,7 @@
 
 ## About Saturn-Radius Developer
 
-<img align="right" width="50%" height="50%" src="https://user-images.githubusercontent.com/40971045/126373212-f429f9f6-85da-40d3-bf95-8bb39ba829d2.jpg" />
+<img align="right" width="50%" height="50%" src="https://i0.wp.com/educatorsinvr.com/wp-content/uploads/2023/01/Screenshot-2022-02-09-135809-Small.png?fit=753%2C480&ssl=1" />
 <br />
 Here is why I am most suitable for your project. <br />
  💎 am a Full Stack Blockchain developer.  <br />
